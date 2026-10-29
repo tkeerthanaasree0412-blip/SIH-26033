@@ -27,6 +27,7 @@ Benefits:
 
 ## Proposed Solution
 > Solution outline:
+
 FarmLink Direct is an AI enabled online marketplace that helps farmers, Farmer Producer Organisations (FPOs), consumers, retailers, hotels and bulk buyers connect directly.
 Farmers will be able to register an account, add their agricultural products, how many they have and what they want to charge. Consumers and bulk buyers will be able to see what products are available, compare prices and place orders with the farmers/FPOs.
 
