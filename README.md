@@ -52,7 +52,7 @@ All prices will be shown clearly so farmers and consumers can see what options a
 This solution is innovative because it contains direct trading, AI demand prediction, logistics and transparent pricing.
 This is different to a standard online marketplace as it will focus on helping improve the whole process of farming produce from the farmer to the final buyer.
 
-Innovative aspects include:
+>Innovative aspects include:
 -Match farmers to appropriate buyers using AI.
 -Use demand predictions to help plan crops and manage stock.
 -Group deliveries to save on transport costs.
@@ -65,30 +65,37 @@ Innovative aspects include:
 > Technologies:
 
 Component Technology
-Front End
+Front End:
 HTML, CSS, JavaScript and React
-Back End
+
+Back End:
 Python and FastAPI
-Database
+
+Database:
 PostgreSQL
-AI & Machine learning
+
+AI & Machine learning:
 Python
 Pandas, Scikit-learn
-Maps & Routing
-Open Street Map and Routing Service
-Authentication
-Role-based authentication and secure log in.
-Payments
-Payment gateway or authorised digital payment.
-Hosting
-Cloud.
-Prototype
 
+Maps & Routing:
+Open Street Map and Routing Service
+
+Authentication:
+Role-based authentication and secure log in.
+
+Payments:
+Payment gateway or authorised digital payment.
+
+Hosting:
+Cloud.
+
+Prototype:
 Responsive web based application.
 
 The technologies listed are suggestions and can change depending on the skill level, budget and available resources of the team.
 
- Implementation Strategy:
+>Implementation Strategy:
 
 This project will be created in stages:
 
@@ -119,6 +126,9 @@ Run a small trial with selected farmers or FPO. Get feedback, see what results w
  System Flowchart:
 
 Farmers/FPO Sign Up – Add products – Match buyers using AI – Place orders – Payment – Logistics & Optimise Routes – Deliver – Feedback & Analysis.
+
+<img width="1536" height="1024" alt="Farmer-to-Buyer Marketplace Infographic" src="https://github.com/user-attachments/assets/34d6f3d3-a723-41cf-9322-1cad58386a26" />
+
 
 ## Feasibility and Viability
 > Feasibility:
